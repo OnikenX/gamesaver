@@ -5,4 +5,58 @@ AC4BF /home/oniken/Games/uplay/drive_c/Program Files (x86)/Ubisoft/Ubisoft Game 
 AW /home/oniken/Games/epic-games-store/drive_c/users/oniken/My Documents/Remedy/AlanWake_EGS_Version/
 
 #Inside
-INSIDE='/home/oniken/Games/epic-games-store/drive_c/users/oniken/Application Data/Playdead/Inside/
+INSIDE '/home/oniken/Games/epic-games-store/drive_c/users/oniken/Application Data/Playdead/Inside/
+
+#DARK SOULS 2
+DS2 /home/oniken/.steam/steam/steamapps/compatdata/335300/pfx/dosdevices/c:/users/steamuser/Application Data/DarkSoulsII
+
+#DOOM
+DOOM /home/oniken/Games/DOOM/PREFIX3/drive_c/users/oniken/Saved Games/id Software/
+
+#TrackMania
+TM /home/oniken/.steam/steam/steamapps/compatdata/11020/pfx/drive_c/ProgramData/TrackMania/
+
+#Cuphead
+CUPHEAD /home/oniken/Games/Cuphead/prefix/drive_c/users/oniken/Application Data/Cuphead/
+
+#BIOSHOCK
+BIOSHOCK /home/oniken/Games/Bioshock/saves
+
+#celeste
+CELESTE /home/oniken/Games/Celeste/Saves
+
+#CEMU emulator - BOTW mostly
+CEMU /home/oniken/Games/cemu/drive_c/Program Files (x86)/cemu_1.19.1/mlc01/
+
+#Dead Cells
+DEADCELLS /home/oniken/Games/DeadCells/SteamEmu/Saves/
+
+#Dolphin emulator
+DOLPHIN /home/oniken/.local/share/dolphin-emu/GC/
+
+#GTA5
+GTA5 /home/oniken/Games/epic-games-store/drive_c/users/oniken/My Documents/Rockstar Games/GTA V/Profiles/
+
+#FURI
+FURI /home/oniken/Games/furi/prefix/drive_c/users/oniken/AppData/LocalLow/TheGameBakers/Furi/
+
+#GRIS
+GRIS /home/oniken/.wine/drive_c/users/oniken/AppData/LocalLow/nomada studio/GRIS/
+
+#GUN
+GUN /home/oniken/Games/steam-backup/compatdata/gun/pfx/drive_c/users/steamuser/My Documents/Activision/Gun/saves/
+
+#Just.Shapes.&.Beats
+JUSTSHAPESANDBEATS /home/oniken/Games/Just.Shapes.&.Beats/Profile/IGGGAMES/Saves/
+
+#Katana ZERO
+KATANAZERO /home/oniken/Games/katana-zero/drive_c/users/oniken/Local Settings/Application Data/Katana_ZERO/
+
+#Minecraft
+MINECRAFT /home/oniken/.minecraft/saves/
+
+#SKYRIM
+SKYRIM /home/oniken/Games/skyrim/drive_c/users/oniken/My Documents/My Games/Skyrim/Saves/
+
+#Shadow Warrior
+
