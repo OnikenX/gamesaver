@@ -1,5 +1,5 @@
 import json
-
+import os
 
 class Gameslist:
 
@@ -33,3 +33,15 @@ class Gameslist:
     # returns a copy of the list
     def get(self):
         return self.list.copy()
+
+    # returns a copy of the game if exists
+    def getgamebycodename(self, codename):
+        for game in self.list:
+            if (game["codename"] == codename):
+                return game.copy()
+
+    # vai buscar o fullpath(substituindo ~ por $HOME, se existir no inicio) utilizando como argumento o codename
+    def getgamepath(self, codename):
+        return self.getgamebycodename(codename)["path"]
+
+    
