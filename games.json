@@ -1,4 +1,5 @@
-[{
+[
+    {
         "name": "Assassin creed 4 Black Flag",
         "codename": "AC4BF",
         "PATH": "~/Games/uplay/drive_c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/savegames/7e1e5fd3-a6b2-4866-b0b2-168968080c8e/273/"
@@ -6,22 +7,22 @@
     {
         "name": "Alan Wake",
         "codename": "AW",
-        "PATH": "~/Games/epic-games-store/drive_c/users/oniken/My Documents/Remedy/AlanWake_EGS_Version/"
+        "PATH": "~/Games/epic-games-store/drive_c/users/$USER/My Documents/Remedy/AlanWake_EGS_Version/"
     },
     {
         "name": "Inside",
         "codename": "INSIDE",
-        "PATH": "~/Games/epic-games-store/drive_c/users/oniken/Application Data/Playdead/Inside/"
+        "PATH": "~/Games/epic-games-store/drive_c/users/$USER/Application Data/Playdead/Inside/"
     },
     {
         "name": "DARK SOULS 2",
         "codename": "DS2",
         "PATH": "~/.steam/steam/steamapps/compatdata/335300/pfx/dosdevices/c:/users/steamuser/Application Data/DarkSoulsII"
-
-    }, {
+    },
+    {
         "name": "DOOM",
         "codename": "DOOM",
-        "PATH": "~/Games/DOOM/PREFIX3/drive_c/users/oniken/Saved Games/id Software/"
+        "PATH": "~/Games/DOOM/PREFIX3/drive_c/users/$USER/Saved Games/id Software/"
     },
     {
         "name": "TrackMania",
@@ -31,7 +32,7 @@
     {
         "name": "Cuphead",
         "codename": "CUPHEAD",
-        "PATH": "~/Games/Cuphead/prefix/drive_c/users/oniken/Application Data/Cuphead/"
+        "PATH": "~/Games/Cuphead/prefix/drive_c/users/$USER/Application Data/Cuphead/"
     },
     {
         "name": "BIOSHOCK",
@@ -46,7 +47,7 @@
     {
         "name": "CEMU emulator",
         "codename": "CEMU",
-        "PATH": " ~/Games/cemu/drive_c/Program Files (x86)/cemu_1.19.1/mlc01/"
+        "PATH": "~/Games/cemu/drive_c/Program Files (x86)/cemu_1.19.1/mlc01/"
     },
     {
         "name": "Dead Cells",
@@ -61,17 +62,17 @@
     {
         "name": "Grand Theft Auto 5",
         "codename": "GTA5",
-        "PATH": "~/Games/epic-games-store/drive_c/users/oniken/My Documents/Rockstar Games/GTA V/Profiles/"
+        "PATH": "~/Games/epic-games-store/drive_c/users/$USER/My Documents/Rockstar Games/GTA V/Profiles/"
     },
     {
         "name": "FURI",
         "codename": "FURI",
-        "PATH": "~/Games/furi/prefix/drive_c/users/oniken/AppData/LocalLow/TheGameBakers/Furi/"
+        "PATH": "~/Games/furi/prefix/drive_c/users/$USER/AppData/LocalLow/TheGameBakers/Furi/"
     },
     {
         "name": "GRIS",
         "codename": "GRIS",
-        "PATH": "~/.wine/drive_c/users/oniken/AppData/LocalLow/nomada studio/GRIS/"
+        "PATH": "~/.wine/drive_c/users/$USER/AppData/LocalLow/nomada studio/GRIS/"
     },
     {
         "name": "GUN",
@@ -86,7 +87,7 @@
     {
         "name": "Katana ZERO",
         "codename": "KATANAZERO",
-        "PATH": "~/Games/katana-zero/drive_c/users/oniken/Local Settings/Application Data/Katana_ZERO/"
+        "PATH": "~/Games/katana-zero/drive_c/users/$USER/Local Settings/Application Data/Katana_ZERO/"
     },
     {
         "name": "Minecraft",
@@ -96,7 +97,7 @@
     {
         "name": "SKYRIM",
         "codename": "SKYRIM",
-        "PATH": "~/Games/skyrim/drive_c/users/oniken/My Documents/My Games/Skyrim/Saves/"
+        "PATH": "~/Games/skyrim/drive_c/users/$USER/My Documents/My Games/Skyrim/Saves/"
     },
     {
         "name": "Shadow Warrior",
