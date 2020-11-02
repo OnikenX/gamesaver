@@ -2,111 +2,111 @@
     {
         "name": "Assassin creed 4 Black Flag",
         "codename": "AC4BF",
-        "PATH": "~/Games/uplay/drive_c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/savegames/7e1e5fd3-a6b2-4866-b0b2-168968080c8e/273/"
+        "path": "~/Games/uplay/drive_c/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/savegames/7e1e5fd3-a6b2-4866-b0b2-168968080c8e/273/"
     },
     {
         "name": "Alan Wake",
         "codename": "AW",
-        "PATH": "~/Games/epic-games-store/drive_c/users/$USER/My Documents/Remedy/AlanWake_EGS_Version/"
+        "path": "~/Games/epic-games-store/drive_c/users/$USER/My Documents/Remedy/AlanWake_EGS_Version/"
     },
     {
         "name": "Inside",
         "codename": "INSIDE",
-        "PATH": "~/Games/epic-games-store/drive_c/users/$USER/Application Data/Playdead/Inside/"
+        "path": "~/Games/epic-games-store/drive_c/users/$USER/Application Data/Playdead/Inside/"
     },
     {
         "name": "DARK SOULS 2",
         "codename": "DS2",
-        "PATH": "~/.steam/steam/steamapps/compatdata/335300/pfx/dosdevices/c:/users/steamuser/Application Data/DarkSoulsII"
+        "path": "~/.steam/steam/steamapps/compatdata/335300/pfx/dosdevices/c:/users/steamuser/Application Data/DarkSoulsII"
     },
     {
         "name": "DOOM",
         "codename": "DOOM",
-        "PATH": "~/Games/DOOM/PREFIX3/drive_c/users/$USER/Saved Games/id Software/"
+        "path": "~/Games/DOOM/PREFIX3/drive_c/users/$USER/Saved Games/id Software/"
     },
     {
         "name": "TrackMania",
         "codename": "TM",
-        "PATH": "~/.steam/steam/steamapps/compatdata/11020/pfx/drive_c/ProgramData/TrackMania/"
+        "path": "~/.steam/steam/steamapps/compatdata/11020/pfx/drive_c/ProgramData/TrackMania/"
     },
     {
         "name": "Cuphead",
         "codename": "CUPHEAD",
-        "PATH": "~/Games/Cuphead/prefix/drive_c/users/$USER/Application Data/Cuphead/"
+        "path": "~/Games/Cuphead/prefix/drive_c/users/$USER/Application Data/Cuphead/"
     },
     {
         "name": "BIOSHOCK",
         "codename": "BIOSHOCK",
-        "PATH": "~/Games/Bioshock/saves"
+        "path": "~/Games/Bioshock/saves"
     },
     {
         "name": "celeste",
         "codename": "CELESTE",
-        "PATH": "~/Games/Celeste/Saves"
+        "path": "~/Games/Celeste/Saves"
     },
     {
         "name": "CEMU emulator",
         "codename": "CEMU",
-        "PATH": "~/Games/cemu/drive_c/Program Files (x86)/cemu_1.19.1/mlc01/"
+        "path": "~/Games/cemu/drive_c/Program Files (x86)/cemu_1.19.1/mlc01/"
     },
     {
         "name": "Dead Cells",
         "codename": "DEADCELLS",
-        "PATH": "~/Games/DeadCells/SteamEmu/Saves/"
+        "path": "~/Games/DeadCells/SteamEmu/Saves/"
     },
     {
         "name": "Dolphin emulator",
         "codename": "DOLPHIN",
-        "PATH": "~/.local/share/dolphin-emu/GC/"
+        "path": "~/.local/share/dolphin-emu/GC/"
     },
     {
         "name": "Grand Theft Auto 5",
         "codename": "GTA5",
-        "PATH": "~/Games/epic-games-store/drive_c/users/$USER/My Documents/Rockstar Games/GTA V/Profiles/"
+        "path": "~/Games/epic-games-store/drive_c/users/$USER/My Documents/Rockstar Games/GTA V/Profiles/"
     },
     {
         "name": "FURI",
         "codename": "FURI",
-        "PATH": "~/Games/furi/prefix/drive_c/users/$USER/AppData/LocalLow/TheGameBakers/Furi/"
+        "path": "~/Games/furi/prefix/drive_c/users/$USER/AppData/LocalLow/TheGameBakers/Furi/"
     },
     {
         "name": "GRIS",
         "codename": "GRIS",
-        "PATH": "~/.wine/drive_c/users/$USER/AppData/LocalLow/nomada studio/GRIS/"
+        "path": "~/.wine/drive_c/users/$USER/AppData/LocalLow/nomada studio/GRIS/"
     },
     {
         "name": "GUN",
         "codename": "GUN",
-        "PATH": "~/Games/steam-backup/compatdata/gun/pfx/drive_c/users/steamuser/My Documents/Activision/Gun/saves/"
+        "path": "~/Games/steam-backup/compatdata/gun/pfx/drive_c/users/steamuser/My Documents/Activision/Gun/saves/"
     },
     {
         "name": "Just.Shapes.&.Beats",
         "codename": "JUSTSHAPESANDBEATS",
-        "PATH": "~/Games/Just.Shapes.&.Beats/Profile/IGGGAMES/Saves/"
+        "path": "~/Games/Just.Shapes.&.Beats/Profile/IGGGAMES/Saves/"
     },
     {
         "name": "Katana ZERO",
         "codename": "KATANAZERO",
-        "PATH": "~/Games/katana-zero/drive_c/users/$USER/Local Settings/Application Data/Katana_ZERO/"
+        "path": "~/Games/katana-zero/drive_c/users/$USER/Local Settings/Application Data/Katana_ZERO/"
     },
     {
         "name": "Minecraft",
         "codename": "MINECRAFT",
-        "PATH": "~/.minecraft/saves/"
+        "path": "~/.minecraft/saves/"
     },
     {
         "name": "SKYRIM",
         "codename": "SKYRIM",
-        "PATH": "~/Games/skyrim/drive_c/users/$USER/My Documents/My Games/Skyrim/Saves/"
+        "path": "~/Games/skyrim/drive_c/users/$USER/My Documents/My Games/Skyrim/Saves/"
     },
     {
         "name": "Shadow Warrior",
         "codename": "SHADOWWARRIOR",
-        "PATH": "~/Documents/Shadow Warrior/"
+        "path": "~/Documents/Shadow Warrior/"
     },
     {
         "name": "Fallout New Vegas",
         "codename": "FALLOUTNV",
-        "PATH": "~/Documents/My Games/FalloutNV/"
+        "path": "~/Documents/My Games/FalloutNV/"
     }
 ]

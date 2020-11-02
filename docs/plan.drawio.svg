@@ -1,0 +1,86 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="518px" height="270px" viewBox="-0.5 -0.5 518 270" content="&lt;mxfile host=&quot;e67f184d-8cc9-41db-b661-2cf020cc5ed1&quot; modified=&quot;2020-10-18T15:28:44.494Z&quot; agent=&quot;5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.50.1 Chrome/83.0.4103.122 Electron/9.2.1 Safari/537.36&quot; version=&quot;13.6.5&quot; etag=&quot;HoNZwSukENGjGLwqkxid&quot;&gt;&lt;diagram id=&quot;Ail6nYHvGcYqmPUjYEsf&quot; name=&quot;Page-1&quot;&gt;7VnLjts2FP0aAckiAz38GC/H9jRdzACDukCbVcCRaIkNpStQ9NjK1/fSJPV26qmVrAQYhnh4SZH3nKtD2U6wSU+fBcmTZ4god3w3OjnB1vH9lTfHbwWUGpjNPQ3EgkUaagA79p0a0DXogUW0aAVKAC5Z3gZDyDIayhZGhIBjO2wPvH3XnMS0B+xCwvvoXyySiUF91607fqcsTuytF7YnJTbaAEVCIjg2oODRCTYCQOqr9LShXCXPJkaP++1Cb7UyQTN5zYCZHvBG+MFs7jNJ6Y68UeH4C8cPMOfB2qxVljYDxZGlnGTYWu8hkzvT42GbcBZneB3iCnCSYI1TSYbJezAdEnJEw4Tx6ImUcFDrLCQJv9nWOgHBvuO0hJs5sVtIowNcVTNip0YirJYpaIExL3bzXgd6JqdW4BMppAFC4JzkBXuttpESEbNsDVJCaoJMqnA79HQx3V5FIqqfQkqlKDHESt/QXlaS0e1jLSM/MFjSVJANJEa6cTV1TS5eGH6HuZ73uHb8tdI/o6oAHnTF7FmckgwV3BZAJ/AVs37IVUxHGZgbeWZMwDe6AQ4ogW0GWiqM8w5k1cLpXl7USpGTkGXx0zlmO6uRP0yGFAQ4ds/PtZSwKKKZ4hkkkUSTqraRA8vkOYPzNX4wpxv3bu7MceEbbHt1Gz8qXMgNZLgXws78UlTMkSrVXCeG2bAYDPsqvdeQP5vdzv1igPsOc5ydGdHM2eea979oS5EATmue/lQ0bj95PS6DPpfBAG+cvFL+AgWTDNT8Qsd2+PwFlC2vrNf72xlbXqhWnCiB6IMsc/pR1yIrvuq6/cqBRDT68HGqyhsovr+yKv3bOfaCHsnr6sE6ue/Y7hss2/YbuP1yxrPaQDkvRuC6f9Tquaoq6ql2f0hw8F5LHSTUH4PQofPU5KnvJ23uX1mFI3A2dA4adtWpFm+kdXHlw3WMWlz1aN2cT0TP9k1mctBRHHTWNtDqfbZ5WHJ/loG6k4HeXrSr9/rnIJ+j+Kc3+ecYnA3Y53ANjkCZf7V9Tm+koxE8YKQ/ryiXPaZoFFNrkLjRBGLICH+sUUzfIUOWTfLqmCc415gqsX+olKVxQHKQoDxQptYfMRGi/FuVo3vneiuLfFEz3t279xbYWgPUrbLZeqGC4XaVZTfcTi3+x16He4WDCE2U2T76dUyr316H2RGUE8ne2tMP5d4MfVGiqq3U67yLLju/8OolmEE1gQ9CkLIRZqR68TZ+x7G9VXO2/woPll5HPfr+tZaqhAzJC5v1Xxk6vP5DKHj8Fw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-81-31-222-44-0">
+            <rect x="81" y="31" width="222" height="44"/>
+        </clipPath>
+        <clipPath id="mx-clip-81-83-222-42-0">
+            <rect x="81" y="83" width="222" height="42"/>
+        </clipPath>
+        <clipPath id="mx-clip-361-211-152-26-0">
+            <rect x="361" y="211" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-361-245-152-26-0">
+            <rect x="361" y="245" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-31-201-192-26-0">
+            <rect x="31" y="201" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-31-235-192-26-0">
+            <rect x="31" y="235" width="192" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 77 26 L 77 0 L 307 0 L 307 26" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 77 26 L 77 120 L 307 120 L 307 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 77 26 L 307 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="191.5" y="17.5">
+                GameSaver
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-81-31-222-44-0)" font-size="12px">
+            <text x="82.5" y="43.5">
+                + field: configmanager
+            </text>
+            <text x="82.5" y="57.5">
+                + field: backuper
+            </text>
+        </g>
+        <path d="M 77 74 L 307 74" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-81-83-222-42-0)" font-size="12px">
+            <text x="82.5" y="95.5">
+                + method(type): is_config_loaded()
+            </text>
+        </g>
+        <path d="M 357 206 L 357 180 L 517 180 L 517 206" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 357 206 L 357 266 L 517 266 L 517 206" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 357 206 L 517 206" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="436.5" y="197.5">
+                Backuper
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-361-211-152-26-0)" font-size="12px">
+            <text x="362.5" y="223.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 357 236 L 517 236" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-361-245-152-26-0)" font-size="12px">
+            <text x="362.5" y="257.5">
+                + method(type): type
+            </text>
+        </g>
+        <path d="M 27 196 L 27 170 L 227 170 L 227 196" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 27 196 L 27 256 L 227 256 L 227 196" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 27 196 L 227 196" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="126.5" y="187.5">
+                ConfigManager
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-31-201-192-26-0)" font-size="12px">
+            <text x="32.5" y="213.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 27 226 L 227 226" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-31-235-192-26-0)" font-size="12px">
+            <text x="32.5" y="247.5">
+                + method(type): config_loaded()
+            </text>
+        </g>
+        <path d="M 77 99 L 7 99 L 7 251 L 16.83 251" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 22.08 251.01 L 15.08 254.5 L 16.83 251 L 15.08 247.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+</svg>
